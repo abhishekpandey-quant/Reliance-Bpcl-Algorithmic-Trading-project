@@ -1,0 +1,7 @@
+# text
+pandas
+NumPy
+matplotlib
+seaborn
+yfinance
+notebook
